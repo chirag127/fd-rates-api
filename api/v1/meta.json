@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:37.476Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:37.476Z",
+  "retrievedAt": "2026-08-25T13:59:37.476Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "Bank websites (public)",
+  "license": "CC-BY-4.0",
+  "updateCadence": "weekly",
+  "nextUpdateDue": "2026-11-23T13:59:37.476Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}
